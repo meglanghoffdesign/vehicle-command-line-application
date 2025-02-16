@@ -34,7 +34,7 @@ After that, you can run the project with:
 npm run start or npm start
 
 ## Usage
-When you run the program, it will present you with a list of available vehicles. You can create new vehicles by entering their details, and they will be saved to your library for future selection. Once a vehicle is selected, you will be prompted with a list of actions you can perform. The actions vary depending on the type of vehicle selected (e.g., towing for trucks, wheelie for motorbikes). Here is an application walkthrough:
+When you run the program, it will present you with a list of available vehicles. You can create new vehicles by entering their details, and they will be saved to your library for future selection. Once a vehicle is selected, you will be prompted with a list of actions you can perform. The actions vary depending on the type of vehicle selected (e.g., towing for trucks, wheelie for motorbikes). Here is an application walkthrough: https://www.loom.com/share/bc5039d751a84707be38e00543252392?sid=f2eb4de4-cc0a-4aa9-b6cb-d1d3e0aa9ebc
 
 ## License
 [MIT License](https://opensource.org/licenses/MIT)
