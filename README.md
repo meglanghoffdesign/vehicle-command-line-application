@@ -17,7 +17,7 @@ A command-line tool that allows users to interact with a selection of vehicles a
 
 ## Installation
 To get started, clone the repository to your local machine using the following command:
-git clone https://github.com/meglanghoffdesign/readme-generator.git
+git clone https://github.com/meglanghoffdesign/vehicle-command-line-application.git
 
 Next, navigate into the project directory:
 cd repository-name
